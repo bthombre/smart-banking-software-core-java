@@ -39,8 +39,8 @@ A console-based banking system built using Core Java without using collections (
 3. Run Main.java
 
 ##  Demo
-## * Bank01.png
-## * Bank02.png
+* Bank01.png
+* Bank02.png
 
 ##  Future Improvements
 
