@@ -42,6 +42,9 @@ A console-based banking system built using Core Java without using collections (
 * Bank01.png
 * Bank02.png
 
+## Demo video(LinkdIn)
+* https://www.linkedin.com/posts/badrinarayan-thombre-713462324_java-programming-backenddevelopment-ugcPost-7453811785201004545-lZWf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFHv538B06pg8YxT9qBbEo-WX24FDog1tIk
+
 ##  Future Improvements
 
 * Replace arrays with collections
